@@ -4,6 +4,13 @@
 
 ---
 
+# 🥋 Система автоматизации «Академия Киокусинкай»
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 Десктопное приложение для автоматизации работы спортивной организации (учет тренеров, учеников и составление расписания тренировок). Проект разработан в рамках производственной практики в колледже (2023 год).
 
 ## 📌 Основной функционал

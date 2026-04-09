@@ -4,7 +4,7 @@
 
 ---
 
-<h1 id="english">🥋 Kyokushinkai Academy Management System</h1>
+# 🥋 Kyokushinkai Academy Management System
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
